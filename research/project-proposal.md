@@ -133,3 +133,24 @@ Implementation, experiments and evaluation will be documented as the project pro
 This is an independent undergraduate research project focused on applying artificial intelligence and active learning to semiconductor wafer defect classification.
 
 The project aims to develop practical knowledge at the intersection of AI, deep learning, computer vision and semiconductor manufacturing.
+
+## 12. Preliminary Dataset Observations:
+Total records: 811,457.
+
+
+
+Labelled records: 172,950.
+
+
+
+Unlabelled records: 638,507.
+
+
+
+Nine observed label values, including the normal none category.
+
+
+
+Significant class imbalance, particularly for the Near-full category.
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/63a77dbb-8587-46c9-ac57-3f8e3fa45b01" />
+
